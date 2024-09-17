@@ -1,0 +1,289 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.11f1 (6a1e21c61430) revision 6954529'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'pt' Physical Memory: 5989 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/jogos/OneDrive/Área de Trabalho/470 Anos/Rua
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+50559
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/jogos/OneDrive/Área de Trabalho/470 Anos/Rua
+C:/Users/jogos/OneDrive/Área de Trabalho/470 Anos/Rua
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21424] Host "[IP] 26.97.67.56 [Port] 0 [Flags] 2 [Guid] 1733256626 [EditorId] 1733256626 [Version] 1048832 [Id] WindowsEditor(7,notebookdemichelle) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [21424] Host "[IP] 26.97.67.56 [Port] 0 [Flags] 2 [Guid] 1733256626 [EditorId] 1733256626 [Version] 1048832 [Id] WindowsEditor(7,notebookdemichelle) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 2.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.11f1 (6a1e21c61430)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/jogos/OneDrive/Área de Trabalho/470 Anos/Rua/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) Graphics (ID=0x15e7)
+    Vendor:   ATI
+    VRAM:     2994 MB
+    Driver:   31.0.21024.2004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005522 seconds.
+- Loaded All Assemblies, in  0.653 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.521 seconds
+Domain Reload Profiling: 1170ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (293ms)
+		LoadAssemblies (212ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (289ms)
+			TypeCache.Refresh (286ms)
+				TypeCache.ScanAssembly (261ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (522ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (434ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (323ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\jogos\OneDrive\Área de Trabalho\470 Anos\Rua\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jogos\OneDrive\Área de Trabalho\470 Anos\Rua\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.290 seconds
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.919 seconds
+Domain Reload Profiling: 2199ms
+	BeginReloadAssembly (503ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (642ms)
+		LoadAssemblies (585ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (213ms)
+			TypeCache.Refresh (185ms)
+				TypeCache.ScanAssembly (168ms)
+			BuildScriptInfoCaches (21ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (919ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (685ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (579ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3142 unused Assets / (0.8 MB). Loaded Objects now: 3703.
+Memory consumption went from 116.3 MB to 115.5 MB.
+Total: 7.331000 ms (FindLiveObjects: 0.883900 ms CreateObjectMapping: 0.317600 ms MarkObjects: 5.107000 ms  DeleteObjects: 1.019700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7715.139776 seconds.
+  path: Assets/Polyeler/Simple Retro Car/Materials/Glass.mat
+  artifactKey: Guid(bab821880557a6440bf93941ccfaa3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polyeler/Simple Retro Car/Materials/Glass.mat using Guid(bab821880557a6440bf93941ccfaa3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b3ba09513fa916c56c546bc14db9514') in 0.3836802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.288076 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/dryBranchesL/editableMaterial/deadTreeMaterial.mat
+  artifactKey: Guid(ff4932141d8edb264a6039b89e750ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/dryBranchesL/editableMaterial/deadTreeMaterial.mat using Guid(ff4932141d8edb264a6039b89e750ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5fc52e2db80a67396e819d9cddf6b4ed') in 0.4060027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/grass/grass/editableMatreial/grassMaterial.mat
+  artifactKey: Guid(6fe9662aba8f0764abda07ec89b8c1a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/grass/grass/editableMatreial/grassMaterial.mat using Guid(6fe9662aba8f0764abda07ec89b8c1a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed51717ed10eed78567a2892d4cfb457') in 0.0171882 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/deadTreeL/editableMaterial/deadTreeMaterial.mat
+  artifactKey: Guid(7ecfb6ee935cccca292f3b84a8dbd6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/deadTreeL/editableMaterial/deadTreeMaterial.mat using Guid(7ecfb6ee935cccca292f3b84a8dbd6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ece597af4d1912d329c0ac96a1df3b4c') in 0.0145135 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/dryBranch/dryBranch/dryBranches.fbx
+  artifactKey: Guid(3dd9affa42ff787faa05b51302a9380c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/dryBranch/dryBranch/dryBranches.fbx using Guid(3dd9affa42ff787faa05b51302a9380c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2347d189a8009543df76053483cd4964') in 0.1319203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/dryBranch/deadTree/editableMaterial/deadTreeMaterial.mat
+  artifactKey: Guid(268afda95a022f91789dfead2db8f75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/dryBranch/deadTree/editableMaterial/deadTreeMaterial.mat using Guid(268afda95a022f91789dfead2db8f75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e015607d479012a8b4af45ecd7f4279c') in 0.0139941 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/dryBranch/dryBranch/editableMaterial/deadTreeMaterial.mat
+  artifactKey: Guid(d4bc6858a3a2523efadf121c0fe13d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/dryBranch/dryBranch/editableMaterial/deadTreeMaterial.mat using Guid(d4bc6858a3a2523efadf121c0fe13d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '322df80a7c8b8c63c1231db8a3c68bfb') in 0.0104075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/dryBranch/deadTree/deadTree.fbx
+  artifactKey: Guid(b84ad9daa528734e5930406e445c30fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/dryBranch/deadTree/deadTree.fbx using Guid(b84ad9daa528734e5930406e445c30fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0415b5b7c77de1d08793cf42a732f6ec') in 0.0328554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/deadTreeL/deadTreeL.fbx
+  artifactKey: Guid(2cb5e05b43f80d692a9c2899b398c685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/deadTreeL/deadTreeL.fbx using Guid(2cb5e05b43f80d692a9c2899b398c685) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'acfa3a8d48112d0073389dbc57dfaf91') in 0.0831575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/dryBranchesL/naturalMaterial/deadTreeMaterialN.mat
+  artifactKey: Guid(0e346cecc4919538d88f761d1387e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/dryBranchesL/naturalMaterial/deadTreeMaterialN.mat using Guid(0e346cecc4919538d88f761d1387e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '954df33933b0620a9dbcad1e5af2acbd') in 0.1309159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/deadTreeL/editableMaterial/naturalMaterial/deadTreeMaterialN.mat
+  artifactKey: Guid(beb7520bf12f38ef4be887484ce7977a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polygonTrees/polygonTrees/models/modelsWithLods/dryBranches/deadTreeL/editableMaterial/naturalMaterial/deadTreeMaterialN.mat using Guid(beb7520bf12f38ef4be887484ce7977a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1e378a017393a6a22069aa9cb37b788') in 0.0156702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
